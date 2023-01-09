@@ -8,7 +8,7 @@ I'm an Associate Software Engineer at Optum, UHG focusing on data engineering(ET
 - 🔭 I’m currently working on expanding my skillset 
 - 🌱 I’m currently learning Spark, Scala and Hadoop
 - 👯 I’m looking to collaborate on a DE project 
-- 🤔 I’m looking for help with my career guidance 
+- 🤔 
 - 💬 Ask me about DE stuff
 - ⚡ Fun fact: I love travelling, working out, reading blogs and gardening!
 

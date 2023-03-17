@@ -3,7 +3,7 @@
 _______________________________________________________________________________________________________________________________________________________________________
 
 
-I'm an Associate Software Engineer at Optum, UHG focusing on Java Backend Development and data engineering(ETL). I work quite a lot on Spring Framework for backend applications and IBM DataStage, Talend & Airflow for creating and scheduling data pipelines with a SQL heavy focus on the data. 
+I'm an Associate Software Engineer at Optum, UHG focusing on Java Backend Development and data engineering(ETL). I work quite a lot on Spring Framework for backend applications, Microservices API, and IBM DataStage, Talend & Airflow for creating and scheduling data pipelines with a SQL heavy focus on the data. 
 
 - 🔭 I’m currently working on expanding my skillset 
 - 🌱 I’m currently learning Spring Boot

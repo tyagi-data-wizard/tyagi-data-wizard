@@ -17,3 +17,8 @@ I'm an Associate Software Engineer at Optum, UHG focusing on Java Backend Develo
 - ⚡ Fun fact: ...
 - 📫 How to reach me: ...
 -->
+
+<p align="center">
+  <img width="65%" src="https://github-readme-stats.vercel.app/api?username=tyagi-data-wizard&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyagi-data-wizard&count_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</p>

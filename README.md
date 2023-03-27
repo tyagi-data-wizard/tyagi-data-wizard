@@ -37,6 +37,7 @@ I'm an Associate Software Engineer at Optum, UHG focusing on Java Backend Develo
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"/>
 <br />
 <h3>Cloud Provider:</h3>
+<img align="left" alt="aws" width="26px" src="https://user-images.githubusercontent.com/56214203/228036629-81e4247b-da4b-4501-b1e9-148278f05644.jpeg" />
 <img align="left" alt="aws" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
 <br />
 <h3>Databases:</h3>

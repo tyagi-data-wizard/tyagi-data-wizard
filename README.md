@@ -39,6 +39,7 @@ I'm an Associate Software Engineer at Optum, UHG focusing on Java Backend Develo
  <br />
  <br />
  <br />
+ <br />
 
 <h2>Areas of Expertise:</h2>
 

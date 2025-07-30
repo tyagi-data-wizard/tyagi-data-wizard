@@ -3,10 +3,10 @@
 _______________________________________________________________________________________________________________________________________________________________________
 
 
-I'm an SDE @ Zuora focusing on Java Backend Development and data engineering(ETL). I work quite a lot on Spring Framework for backend applications, Microservices API, and IBM DataStage, Talend & Airflow for creating and scheduling data pipelines with a SQL heavy focus on the data. 
+I'm an SSE @ PayTm focusing on Java Backend Development, past experience in Zuora and Optum. I work quite a lot on Spring Framework for backend applications, Microservices API, and IBM DataStage, Talend & Airflow for creating and scheduling data pipelines with a SQL heavy focus on the data. 
 
 - 🔭 Currently working on Problem Solving Skills
-- 🌱 I’ve been working in a Fortune 5 Company creating and managing their applications.
+- 🌱 I’ve been working in India's leading Payments Company
 - 👯 I’d love to collaborate on any project.
 - 🤔 
 - 💬 Ask me about Back End Development and DSA.
